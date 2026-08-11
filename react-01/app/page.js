@@ -15,11 +15,10 @@ export default function Home() {
         />
         <div className={styles.intro}>
           <h1>
-            Marcelo 
-            <code className={styles.code}>page.js</code> file.
+            Meu Site 
           </h1>
           <p>
-            Looking for a starting point or more instructions? Head over to{" "}
+            Conteúdo do Site
             <a
               href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
               target="_blank"
