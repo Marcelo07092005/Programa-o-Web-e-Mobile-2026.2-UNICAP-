@@ -15,10 +15,10 @@ export default function Home() {
         />
         <div className={styles.intro}>
           <h1>
-            Mago 
+            Meu Site 
           </h1>
           <p>
-            Você é Viado
+            Conteúdo do Site
           </p>
           <br>
           </br>
