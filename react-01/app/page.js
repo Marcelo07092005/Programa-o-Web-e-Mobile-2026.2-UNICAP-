@@ -15,10 +15,15 @@ export default function Home() {
         />
         <div className={styles.intro}>
           <h1>
-            Meu Site 
+            Mago 
           </h1>
           <p>
-            Conteúdo do Site
+            Você é Viado
+          </p>
+          <br>
+          </br>
+          <p>
+            
           </p>
         </div>
         <div className={styles.ctas}>
